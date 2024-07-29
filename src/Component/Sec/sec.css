@@ -1,0 +1,10 @@
+
+.product{
+    overflow: hidden;
+    cursor: pointer;
+}
+.product:hover img{
+    transform: scale(1.1);
+    transition: all 300ms ease-in;
+
+}
